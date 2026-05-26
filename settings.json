@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7",
-    "password": "1234567891",
-    "type": "online"
+    "username": "Technoblade",
+    "password": "",
+    "type": "offline"
   },
   "server": {
     "ip": "SoulsSquad.aternos.me",
